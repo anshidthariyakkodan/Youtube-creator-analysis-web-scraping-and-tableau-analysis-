@@ -1,6 +1,6 @@
-# YouTube Video Data Analysis
+# YouTube Video Data Analysis (Web scraped data)
 
-This repository contains a data analysis of YouTube video statistics for the creators Tina Huang,Luke Barousse
+This repository contains data created by web scraping using youtube api.Here is the analysis of YouTube video statistics for the creators Tina Huang,Luke Barousse
 ,techTFQ, Ken Jee
  and Alex The Analyst
 . The analysis focuses on various aspects of their video content, including views, likes, comments, and publication dates.
